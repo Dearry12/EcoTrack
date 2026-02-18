@@ -22,8 +22,6 @@ Project ini dikembangkan dan dioptimalkan pada:
 * **IDE:** Xcode 17+
 * **Platform:** iOS 19+
 
-## 📸 Preview
-*(Tambahkan screenshot dashboard grafik dan tampilan FaceID kamu di sini)*
 
 ---
-Developed by **Derry Meiraldy** - Informatics Student focusing on Information Security.
+Developed by **Derry Meiraldy** - Informatics Student.
